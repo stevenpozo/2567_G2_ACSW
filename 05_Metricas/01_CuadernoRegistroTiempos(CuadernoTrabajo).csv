@@ -1,0 +1,34 @@
+CUADERNO DE TRABAJO  Nª;;;;;;;;;;;;
+;;;;;;;;;;;;
+Nombre:;Edwin Flores Castro;;;;;;;;;Fecha:;14/05/2018;
+;;;;;;;;;;;;
+Trabajo;Fecha;Proceso;Estimado;;Real;;;Hasta la fecha;;;;
+;;;Tiempo;Unidades;Tiempo;Unidades;Velocidad;Tiempo;Unidades;Velocidad;MAX;MIN
+1;03/06/2024;Creación;1;2;1,5;2;0,75;1;2;0,5;2;1
+;Descripción;Creación de la base de datos en MongoDB;;;;;;;;;;
+2;03/06/2024;Análisis;1;1;1,1;2;0,55;1;1;1;2;2
+;Descripción;Análisis de los requerimientos para el componente de inicio de sesión;;;;;;;;;;
+3;03/06/2024;Diseño;6;1;6,24;2;3,12;6,24;2;3,12;2;1
+;Descripción;Diseño UX/UI en Figma;;;;;;;;;;
+4;04/06/2024;Codificacion;6;1;7,2;2;3,6;7,2;3;2,4;2;3
+;Descripción;Desarrollo del frontend y backend;;;;;;;;;;
+5;03/06/2024;Análisis;1;1;2;2;1;2;5;0,4;2;2
+;Descripción;Análisis de datos requeridos para guardar un usuario;;;;;;;;;;
+6;04/06/2024;Conexión;1;1;2;2;1;2;2;1;2;2
+;Descripción;Conexión a la colección referente a usuarios en la base de datos;;;;;;;;;;
+7;05/06/2024;Codificación;2;1;2,5;2;1,25;2,5;9;0,277777778;3;1
+;Descripción;Desarrollo de interfaz de registro de usuario;;;;;;;;;;
+8;05/06/2024;Análisis;1;1;1,59;2;0,795;6;6;1;2;1
+;Descripción;Análisis de los campos requeridos para el registro;;;;;;;;;;
+9;06/06/2024;Diseño;2;1;2,4;2;1,2;1;1;1;2;1
+;Descripción;Diseño UX/UI, relación con la base de datos;;;;;;;;;;
+10;06/06/2024;Codificacion;2;1;2;2;1;15;15;1;3;1
+;Descripción;Desarrollo de las funcionalidades para guardar adecuadamente en la base de datos;;;;;;;;;;
+11;06/06/2024;Codificación;4;1;4;2;2;9;9;1;4;2
+;Descripción;Implementación de validación de los datos en el frontend de los campos de registro de mascotas;;;;;;;;;;
+12;07/06/2024;Análisis;1;1;1;2;0,5;19;19;1;2;2
+;Descripción;Identificación de la información que se va a mostrar en la pantalla principal;;;;;;;;;;
+13;07/06/2024;Diseño;3;1;3;2;1,5;3;3;1;2;1
+;Descripción;Diseño UX/UI para la página principal;;;;;;;;;;
+14;07/06/2024;Codificación;3;1;3;2;1,5;16;16;1;4;2
+;Descripción;Implementación de la funcionalidad de refresco de la página, grid para las imágenes;;;;;;;;;;
